@@ -34,7 +34,7 @@
   ![Netlify](https://img.shields.io/badge/Netlify-48BFE3?logo=netlify&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-56CFE1?logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-64DFDF?logo=Visual%20Studio%20Code&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-72EFDD?logo=Trello&logoColor=white)
+  ![Twilio](https://img.shields.io/badge/Twilio-72EFDD?logo=Twilio&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-80FFDB?logo=Slack&logoColor=white)
   ![Eslint](https://img.shields.io/badge/ESLint-D6FFF3?logo=ESLint&logoColor=white)
   
