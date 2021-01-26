@@ -11,7 +11,6 @@
 
 <div align="center">
 <p>Hi there!  My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!</p>
-<p>More coming soon...</p>
 </div>
 
 <div align="center">
