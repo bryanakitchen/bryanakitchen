@@ -1,18 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h1>
+    Welcome to my GitHub! 👋
+  </h1>
+</div>
 
+<div align="center">
+Hi there!  My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bryanakitchen)](https://github.com/bryanakitchen/github-readme-stats?theme=algolia)
+  <a href="https://www.linkedin.com/in/bryanakitchen/" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue />
+  </a>
+</div>
+
+More coming soon...
+
+### GitHub Stats
+<a href="https://github.com/bryanakitchen/bryanakitchen">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
+</a>
+
 <!--
-**bryanakitchen/bryanakitchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ Ideas ✨ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Tech Stack
 -->
