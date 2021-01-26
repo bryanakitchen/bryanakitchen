@@ -15,11 +15,12 @@
 <p>More coming soon...</p>
 </div>
 
-### GitHub Stats
-<a href="https://github.com/bryanakitchen/bryanakitchen">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
-</a>
-
+<div align="center">
+  ### GitHub Stats
+  <a href="https://github.com/bryanakitchen/bryanakitchen">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
+  </a>
+</div>
 <!--
  ✨ Ideas ✨ 
 
