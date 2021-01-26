@@ -4,7 +4,7 @@
   </h1>
   <p>
     <a href="https://www.linkedin.com/in/bryanakitchen/" target="_blank">
-      <img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue />
+      <img src=https://img.shields.io/badge/LinkedIn-0072B1?logo=linkedin&labelColor=blue />
     </a>
   </p>
 </div>
