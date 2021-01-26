@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Welcome to my GitHub! 👋
+    Welcome to my GitHub!
   </h1>
   <p>
     <a href="https://www.linkedin.com/in/bryanakitchen/" target="_blank">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<p>Hi there!  My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!</p>
+<p>Hi there! 👋 My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!</p>
 </div>
 
 <div align="center">
@@ -44,12 +44,12 @@
   <h2> 
     GitHub Stats
   </h2>
-  <a href="https://github.com/bryanakitchen/bryanakitchen">
+  <a href="https://github.com/bryanakitchen/">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
   </a>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanakitchen&theme=tokyonight&show_icons=true&layout=compact" alt="Bryana's Language Stats" />  
 </div>
 <!--
- ✨ Ideas ✨ 
-
-Tech Stack
+ ✨ Have a great day! ✨ 
 -->
