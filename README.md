@@ -5,13 +5,15 @@
 </div>
 
 <div align="center">
-Hi there!  My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!
-<br/>
+<p>Hi there!  My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!</p>
+
+<p>Find me on
   <a href="https://www.linkedin.com/in/bryanakitchen/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue />
   </a>
-<br/>
-More coming soon...
+</p>
+
+<p>More coming soon...</p>
 </div>
 
 ### GitHub Stats
