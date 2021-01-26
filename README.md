@@ -16,7 +16,10 @@
 </div>
 
 <div align="center">
-  ### GitHub Stats
+  <h2> 
+    GitHub Stats
+  </h2>
+  
   <a href="https://github.com/bryanakitchen/bryanakitchen">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
   </a>
