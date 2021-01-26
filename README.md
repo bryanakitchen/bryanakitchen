@@ -2,16 +2,15 @@
   <h1>
     Welcome to my GitHub! 👋
   </h1>
+  <p>
+    <a href="https://www.linkedin.com/in/bryanakitchen/" target="_blank">
+      <img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue />
+    </a>
+  </p>
 </div>
 
 <div align="center">
 <p>Hi there!  My name is Bryana and I'm a software engineer. Let's solve some human-centered problems together!</p>
-
-<p>Find me on
-  <a href="https://www.linkedin.com/in/bryanakitchen/" target="_blank">
-    <img src=https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue />
-  </a>
-</p>
 
 <p>More coming soon...</p>
 </div>
