@@ -19,6 +19,7 @@
   ![HTML](https://img.shields.io/badge/HTML-006466?logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-065A60?logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-0B525B?logo=javascript&logoColor=white)
+<!--  Add Typescript, AWS  -->
   ![React](https://img.shields.io/badge/React-144552?logo=react&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-212F45?logo=bootstrap&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/Nodejs-312244?logo=Node.js&logoColor=white)
@@ -45,10 +46,11 @@
     GitHub Stats
   </h2>
   <a href="https://github.com/bryanakitchen/">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats-delta-opal.vercel.app/api?username=bryanakitchen&theme=tokyonight&show_icons=true" alt="Bryana's GitHub Stats" />
   </a>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanakitchen&theme=tokyonight&show_icons=true&layout=compact" alt="Bryana's Language Stats" />  
+<!--     <img align="center" src="https://github-readme-stats-delta-opal.vercel.app/api/top-langs/?username=bryanakitchen&theme=tokyonight&show_icons=true&layout=compact" alt="Bryana's Language Stats" />   -->
 </div>
 <!--
  ✨ Have a great day! ✨ 
